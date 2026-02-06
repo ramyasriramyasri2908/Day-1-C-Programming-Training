@@ -1,6 +1,6 @@
-# Day 1 – C Programming Training
+#C Programming Training
 
-This repository contains basic C programs practiced on Day 1 of C Programming Training.
+This repository contains basic C programs practiced on C Programming Training.
 
 ## Programs Included
 1. Digits Count in a Given Number. 
